@@ -1,6 +1,0 @@
-Project1.exe
-Project1.layout
-Project1_private.h
-Project1_private.rc
-Project1_private.res
-main.o
