@@ -6,7 +6,7 @@ Ver=2
 ObjFiles=
 Includes=
 Libs=
-PrivateResource=
+PrivateResource=Project1_private.rc
 ResourceIncludes=
 MakeIncludes=
 Compiler=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=
-UnitCount=1
+UnitCount=2
 
 [VersionInfo]
 Major=1
@@ -52,6 +52,16 @@ SyncProduct=1
 
 [Unit1]
 FileName=main.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=functions.cpp
 CompileCpp=1
 Folder=
 Compile=1
