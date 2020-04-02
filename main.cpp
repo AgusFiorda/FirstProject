@@ -1,9 +1,9 @@
+#include "header.h"
 #include <iostream>
 
-void func();
-
+using namespace std;
 int main(int argc, char** argv) {
 	std::cout << "Hello world!\n";
-	func();
+	sumar();
 	return 0;
 }
